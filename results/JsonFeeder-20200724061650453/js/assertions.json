@@ -1,0 +1,10 @@
+{
+  "simulation": "activeActive_POST.PostJsonFeeder",
+  "simulationId": "JsonFeeder",
+  "start": 1595571410453,
+  "description": "Active - Active Project_PostJsonFeeder",
+  "scenarios": ["Post new games"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+RUN	activeActive_POST.PostJsonFeeder	JsonFeeder	1595571410453	Active - Active Project_PostJsonFeeder	3.3.1
+USER	Post new games	1	START	1595571412679	1595571412679
+REQUEST	1		Post New Game	1595571412785	1595571413482	KO	status.find.is(200), but actually found 500
+USER	Post new games	1	END	1595571412679	1595571414517

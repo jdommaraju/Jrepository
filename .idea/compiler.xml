@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="activeActive.qa.performance.put" />
+        <module name="activeActive.qa.performance.Api" />
+        <module name="activeActive.qa.performance.post" />
+        <module name="activeActive.qa.performance.authentication" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activeActive-qa-performance-harness" target="1.8" />
+      <module name="activeActive.qa.performance.Api" target="1.8" />
+      <module name="activeActive.qa.performance.authentication" target="1.8" />
+      <module name="activeActive.qa.performance.post" target="1.8" />
+      <module name="activeActive.qa.performance.put" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

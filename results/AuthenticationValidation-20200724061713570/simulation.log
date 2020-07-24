@@ -1,0 +1,5 @@
+RUN	activeActive.Requests.AuthenticationValidation	AuthenticationValidation	1595571433570	Active - Active Project_AuthenticationValidation	3.3.1
+USER	Authorization validation	1	START	1595571435987	1595571435987
+REQUEST	1		Verify User Credentials	1595571436063	1595571437299	OK	 
+REQUEST	1		Verify Bearer Token	1595571439317	1595571439827	OK	 
+USER	Authorization validation	1	END	1595571435987	1595571441845

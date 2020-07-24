@@ -1,0 +1,10 @@
+{
+  "simulation": "activeActive.Requests.AuthenticationValidation",
+  "simulationId": "AuthenticationValidation",
+  "start": 1595567539614,
+  "description": "Active - Active Project_AuthenticationValidation",
+  "scenarios": ["Authorization validation"],
+  "assertions": [
+
+  ]
+}
